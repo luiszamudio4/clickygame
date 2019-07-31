@@ -1,0 +1,68 @@
+[{
+    "id": 1,
+    "name": "Aviva",
+    "image": "https://img.sharetv.com/shows/characters/thumbnails/wild_kratts.aviva_corcovado.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Camo",
+    "image": "https://vignette.wikia.nocookie.net/wildkratts/images/f/fb/Camo.png/revision/latest?cb=20170805193912"
+  },
+  {
+    "id": 3,
+    "name": "Chris",
+    "image": "https://vignette.wikia.nocookie.net/wildkrattsfanon/images/3/31/Chris.png/revision/latest?cb=20150323130728"
+  },
+  {
+    "id": 4,
+    "name": "Donita",
+    "image": "https://66.media.tumblr.com/ad7fa3504e1966ecea2838dc56eb08f9/tumblr_pf8d3lk3wj1xa8mbfo3_500.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Gourmand",
+    "image": "https://vignette.wikia.nocookie.net/wildkratts/images/0/0f/Wildkratts.gourmand05.PNG/revision/latest?cb=20140605200024"
+  },
+  {
+    "id": 6,
+    "name": "Koki",
+    "image": "https://vignette.wikia.nocookie.net/the-kratt-brothers/images/2/29/Profiles_koki2.jpg/revision/latest?cb=20141130161008"
+
+  },
+  {
+    "id": 7,
+    "name": "Martin",
+    "image": "https://i.pinimg.com/originals/e5/bf/5d/e5bf5d8c93e825bffbf23978b7f59745.png"
+
+  },
+  {
+    "id": 8,
+    "name": "Paisley",
+    "image": "https://vignette.wikia.nocookie.net/wildkratts/images/c/c2/Paisley_e416_11.PNG/revision/latest?cb=20180114052216"
+
+  },
+  {
+    "id": 9,
+    "name": "Seahorse",
+    "image": "http://ericepps.me/blog/wp-content/uploads/2015/05/red-cpd-Seahorse.png"
+
+  },
+  {
+    "id": 10,
+    "name": "Swirly",
+    "image": "https://vignette.wikia.nocookie.net/wildkratts/images/2/24/Swirly_3.JPG/revision/latest?cb=20170423203630"
+
+  },
+  {
+    "id": 11,
+    "name": "Zach",
+    "image": "https://vignette.wikia.nocookie.net/wildkratts/images/f/fc/Wild.kratts.zach.V03.PNG/revision/latest?cb=20140602230034"
+
+  },
+  {
+    "id": 12,
+    "name": "Zebra",
+    "image": "https://vignette.wikia.nocookie.net/wildkratts/images/f/fd/Capture.JPG/revision/latest?cb=20160920171220"
+
+  }
+]
